@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crossmusic-208914",
+  "private_key_id": "a552e794e1a8b13476c1155ffaec2b3baed13955",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFffQYZWmhd/sn\nishecsL2ysE18t8eCGkQovT13zhLJZhZXcQByP0H8VEh/icLSGTIViivlhiHEXEI\nTllUWD8tSWAUGuSwVOKf1BpOzd594EbSrurI0PWPVtoVEMFFJUNUsTajWVA1YwMw\nHxeAjPRCflBI5ud/cfJJRd+Vm6/UqOkeemRbUpz8L3HLteVRm2fgx69dzTbtp4se\n9S5+o8arPu4qL4/Q1ueD1NiSEf9ViH8U44ndQEqHvKNZFummyRWavxDh5faUbqHk\nVv91FcVDb3WbOTPZhuEVp9U14o5jONh6KPTJa1gm8veuui/z5TIk7mt2Hc3wt6ZJ\nuGD9H0Q9AgMBAAECggEAXOOuMN9aPKk7R1D+h3YA/6VEFUTj7rNT/5A2GYNhbe8D\n5ly0+YX4hYjaeVuaL7NgO95SiqvVY4ovmRGI8KQFKx7NAwfXMpzqbvSLXy9zi882\nYJgHNGccaMwYDTpxPT2WmrozkcdLc6DbegHVwxAJP1E8H94DWq1UoWQtEqhEnofz\n1nl6zQy0n4o/Zz43Zu/zmCI5lfD9GUC/KSGafDUJ3Vr+v6/Q5TWF45+V0AMrL+5d\nge6A7q39ap3Qojos/bJjfU2Woy+0gmr4Wd+XETwYw73F+cq68bgeoEO4HTkOrooy\n8Uz/CltDvTAhHZa9h58Hn+8+DujdD2dk9VSh6oPlXQKBgQDzbuZUqGumAQWp4Msl\nKVwTr87Yc/GZThpyYzXyM1E1/3Yl3XLMpjZEpgf0xBHNS1YTxYqifECPiLMlpn8T\nt/EqkAcVzDxCSY1mvThiffbB+W7ctmk5FK12oyj8lZtKjf8YaioXhlYWUYmfSE77\nLVVgknPk2/oU/cstY6+JLAHhXwKBgQDPr+qOGIJPwCp6oLLnHUxr3jTYVzAPYeWB\n9UTfpVPCq/47cTMeoPHQ9SiBpMAQIUFUyvMguRk1kF0JZRFo9N6iojNEqxdKYwSv\n0m888emezxFqx7B9SSelQntSXmkRIFHlo2JL7kuYe9O+6y7PxJJ/xMylKb20aYXc\nk6tiqoGz4wKBgQCR3qdonU98NuqU5B3207TYGyZAcCGassGIP8jorDWCvOSoRe1v\nkj28nxzvX7onIXif+mRbf0cUe16WNhG52CRMU+fa+Po24mo34TTzV/XQQE5dNXUR\n/kD/cT+zM1bNsw7kK2GznQzi7NMhviuNuZmKd9e4kNRnVbk1JqHd+Z/a0wKBgQDH\nDGf19gF2o8tSqg+st4TV4SquqalTJNVNH5/55L8JVcQcflqrIT+BsGU5E4hMLUMr\nHDO2ihBiKNEyPt5XxFBYeLJAPuXcklgclsesFoJ8hSLBP0+kU+eeWMBO6lMyadJ0\nD4oXEfT72LnRQiAkWta5hAlKxl2duoDkLddVges7VwKBgHjFeyLa2MMZ3T/G1KkR\ntg0mdScojLxFJAYkPPFHTYqDsSSDh6moKiU9B6C/BNkrr6TAV3dZXbvxtwWY9Bi0\n0vLCTMjDRXMd/CIaFiMr5+HprR2CtmqmQFN2D4TUaqHFSNzqzoEFBayU/QRYSQ0n\nEWbQv/FNLbjIuDurnsPCjOSC\n-----END PRIVATE KEY-----\n",
+  "client_email": "server@crossmusic-208914.iam.gserviceaccount.com",
+  "client_id": "104015890129354943388",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/server%40crossmusic-208914.iam.gserviceaccount.com"
+}
